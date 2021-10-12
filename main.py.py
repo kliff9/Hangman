@@ -29,15 +29,3 @@ while playagain == 'y':
     game() # Hangman game
     playagain = input('Want to Go another Round?').lower() #Askes to play again
 
-
-
-
-
-    
-
-# while hangman.lose():
-#     hangman.word_check()
-#     if hangman.win():
-#         break
-# playagain = input('Want to Go another Round?').lower()
-# if playagain == 'y':
